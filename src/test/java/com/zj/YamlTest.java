@@ -71,7 +71,7 @@ public class YamlTest {
         Person[] children = {new Person(), new Person()};
         children[0].setName("Jimmy Smith");
         children[0].setAge(15);
-        children[1].setName("Jenny Smith");
+        children[1].setName("Jenny Smith666");
         children[1].setAge(12);
         john.setChildren(children);
         return john;
